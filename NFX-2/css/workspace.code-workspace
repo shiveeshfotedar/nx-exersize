@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../NFX-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NFX-2"
+	}
+}
